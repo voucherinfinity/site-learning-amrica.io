@@ -445,3 +445,10 @@
 .form-group {
     margin-bottom: 10px;
 }
+.cate-box ul li {
+    color: #212536;
+    line-height: 35px;
+}
+li {
+    list-style: none;
+}
